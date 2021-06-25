@@ -1,4 +1,5 @@
 import { StyleSheet } from "react-native";
+
 import { theme } from "../../global/styles/theme";
 
 export const styles = StyleSheet.create({
@@ -6,7 +7,8 @@ export const styles = StyleSheet.create({
         width: '100%',
         flexDirection: 'row',
         justifyContent: 'space-between',
-        paddingHorizontal: 24
+        paddingHorizontal: 24,
+        marginTop: 27
     },
     title: {
         fontFamily: theme.fonts.title700,
