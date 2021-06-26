@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://e8-h3r.marcelim122.nlw-together.exp.direct",
+  "packagerNgrokUrl": "https://packager.e8-h3r.marcelim122.nlw-together.exp.direct",
+  "ngrokPid": 21608,
   "webpackServerPort": null
 }
